@@ -1,0 +1,5 @@
+# Generated from the combos section of randomcontainers/sphinx package.yml by randomcontainers/ci.
+# Do not edit; change package.yml in randomcontainers/sphinx instead.
+name: sphinx-graphviz
+owner: sphinx
+with: [graphviz]
